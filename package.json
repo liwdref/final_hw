@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "koa": "^2.7.0",
+    "koa-compose": "^4.1.0"
+  }
+}
